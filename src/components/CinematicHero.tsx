@@ -55,14 +55,15 @@ export function CinematicHero({ onSkip }: Props) {
         {/* Gradient overlay for legibility */}
         <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/35 to-black/80 pointer-events-none" />
 
-        {/* Logo at the top — respects iOS safe-area */}
+        {/* Logo at the top — respects iOS safe-area, has a generous floor for in-app webviews that don't report inset */}
         <motion.div
           style={{
             opacity: contentOpacity,
             y: contentY,
-            paddingTop: "calc(env(safe-area-inset-top) + 1.5rem)",
+            paddingTop:
+              "max(calc(env(safe-area-inset-top, 0px) + 1.5rem), 5rem)",
           }}
-          className="absolute inset-x-0 top-0 flex flex-col items-center px-6 z-10 text-center sm:!pt-12"
+          className="absolute inset-x-0 top-0 flex flex-col items-center px-6 z-10 text-center"
         >
           <motion.div
             initial={{ opacity: 0, y: 24 }}
@@ -100,13 +101,13 @@ export function CinematicHero({ onSkip }: Props) {
           </motion.p>
         </motion.div>
 
-        {/* Skip intro button — respects iOS safe-area */}
+        {/* Skip intro button — respects iOS safe-area with floor for webviews */}
         <button
           type="button"
           onClick={onSkip}
           style={{
-            top: "calc(env(safe-area-inset-top) + 1rem)",
-            right: "calc(env(safe-area-inset-right) + 1rem)",
+            top: "max(calc(env(safe-area-inset-top, 0px) + 1rem), 4rem)",
+            right: "max(calc(env(safe-area-inset-right, 0px) + 1rem), 1rem)",
           }}
           className="group absolute z-20 inline-flex items-center gap-1.5 rounded-full bg-white/15 backdrop-blur-md border border-white/30 text-white px-3 py-1.5 text-xs font-medium hover:bg-white/25 transition-colors"
         >
