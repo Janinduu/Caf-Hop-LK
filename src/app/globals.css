@@ -1,26 +1,147 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Warm evening-cafe palette — pulled from the Paris-night hero */
+  --background: #ede5d3;
+  --background-soft: #f3edde;
+  --card: rgba(255, 250, 240, 0.32);
+  --card-solid: #f5efe0;
+  --card-hover: rgba(255, 250, 240, 0.55);
+  --foreground: #2b1f15;
+  --foreground-soft: #4a382b;
+  --muted: #847264;
+  --primary: #b8783a;
+  --primary-hover: #94621f;
+  --secondary: #d4a574;
+  --tag-bg: rgba(255, 250, 240, 0.45);
+  --tag-bg-strong: rgba(255, 250, 240, 0.8);
+  --border: rgba(43, 31, 21, 0.1);
+  --border-strong: rgba(43, 31, 21, 0.22);
+  --favorite: #c93a3a;
+  --visited: #2f8a3c;
+  --want: #c8731c;
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-background-soft: var(--background-soft);
+  --color-card: var(--card);
+  --color-card-solid: var(--card-solid);
+  --color-card-hover: var(--card-hover);
   --color-foreground: var(--foreground);
+  --color-foreground-soft: var(--foreground-soft);
+  --color-muted: var(--muted);
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-secondary: var(--secondary);
+  --color-tag-bg: var(--tag-bg);
+  --color-tag-bg-strong: var(--tag-bg-strong);
+  --color-favorite: var(--favorite);
+  --color-visited: var(--visited);
+  --color-want: var(--want);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
   --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  position: relative;
+}
+
+/* Fixed-position warm glow — iOS Safari ignores background-attachment:fixed, so we use a real fixed pseudo-element */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image:
+    radial-gradient(ellipse 1200px 800px at top right, rgba(212, 165, 116, 0.18), transparent 70%),
+    radial-gradient(ellipse 1000px 700px at bottom left, rgba(184, 120, 58, 0.1), transparent 65%);
+  pointer-events: none;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.glass {
+  background: rgba(255, 250, 240, 0.32);
+  backdrop-filter: blur(28px) saturate(180%);
+  -webkit-backdrop-filter: blur(28px) saturate(180%);
+  border: 1px solid rgba(255, 250, 240, 0.5);
+  box-shadow:
+    0 1px 0 rgba(255, 250, 240, 0.4) inset,
+    0 4px 24px rgba(43, 31, 21, 0.06);
+}
+
+/* Hero tagline — soft semi-transparent display serif */
+.hero-tagline {
+  font-family: var(--font-display), Georgia, "Times New Roman", serif;
+  font-weight: 300;
+  font-size: clamp(1.75rem, 4.5vw, 4rem);
+  color: rgba(255, 255, 255, 0.42);
+  text-shadow: 0 2px 32px rgba(0, 0, 0, 0.6);
+  letter-spacing: 0.01em;
+  font-style: italic;
+}
+
+.glass-strong {
+  background: rgba(255, 250, 240, 0.55);
+  backdrop-filter: blur(32px) saturate(200%);
+  -webkit-backdrop-filter: blur(32px) saturate(200%);
+  border: 1px solid rgba(255, 250, 240, 0.6);
+  box-shadow:
+    0 1px 0 rgba(255, 250, 240, 0.5) inset,
+    0 8px 32px rgba(43, 31, 21, 0.08);
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in { animation: fadeIn 220ms ease-out; }
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-slide-up { animation: slideUp 260ms cubic-bezier(0.16, 1, 0.3, 1); }
+
+@keyframes pulseOnce {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.3); }
+}
+.animate-pulse-once { animation: pulseOnce 400ms ease-out; }
+
+@keyframes steamRise {
+  0% { opacity: 0; transform: translateY(2px) scaleY(1); }
+  40% { opacity: 0.85; }
+  100% { opacity: 0; transform: translateY(-8px) scaleY(1.05); }
+}
+.logo-steam {
+  animation: steamRise 2.4s ease-in-out infinite;
+  transform-origin: center bottom;
+}
+.logo-steam-2 {
+  animation: steamRise 2.4s ease-in-out 0.7s infinite;
+  transform-origin: center bottom;
+}
+
+select {
+  background-image: none;
+  color-scheme: light;
+}
+
+::selection {
+  background: var(--primary);
+  color: var(--background);
 }
