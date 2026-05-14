@@ -55,15 +55,13 @@ export function CinematicHero({ onSkip }: Props) {
         {/* Gradient overlay for legibility */}
         <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/35 to-black/80 pointer-events-none" />
 
-        {/* Logo at the top — respects iOS safe-area, has a generous floor for in-app webviews that don't report inset */}
+        {/* Logo — upper-middle on mobile, near-top on desktop */}
         <motion.div
           style={{
             opacity: contentOpacity,
             y: contentY,
-            paddingTop:
-              "max(calc(env(safe-area-inset-top, 0px) + 1.5rem), 5rem)",
           }}
-          className="absolute inset-x-0 top-0 flex flex-col items-center px-6 z-10 text-center"
+          className="absolute inset-x-0 top-[22vh] sm:top-16 flex flex-col items-center px-6 z-10 text-center"
         >
           <motion.div
             initial={{ opacity: 0, y: 24 }}
