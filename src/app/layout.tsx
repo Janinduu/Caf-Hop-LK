@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Cormorant_Garamond } from "next/font/google";
 import "./globals.css";
 
@@ -18,6 +18,12 @@ export const metadata: Metadata = {
   title: "CaféHop LK",
   description:
     "A handpicked atlas of Sri Lanka's cafes, restaurants, and quiet corners. Filter by district, vibe, or moment — and find where to go next.",
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
 };
 
 export default function RootLayout({
