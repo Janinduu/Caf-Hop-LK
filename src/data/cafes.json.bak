@@ -3,18 +3,18 @@
     "name": "Tenkai",
     "googleMapsUrl": "https://www.google.com/maps/place/Tenkai/data=!4m2!3m1!1s0x3ae251a773ba6d83:0x664fa2855db8d7aa",
     "district": "Colombo",
-    "area": "Pelawatta",
+    "area": "Dehiwala",
     "tags": [
       "fine-dining",
       "date-spot"
     ],
-    "description": "Japanese restaurant in Pelawatta offering sushi, ramen, and authentic Japanese cuisine in a warm, intimate setting."
+    "description": "Japanese restaurant in Dehiwala offering sushi, ramen, and authentic Japanese cuisine in a warm, intimate setting."
   },
   {
     "name": "Persian Cove",
     "googleMapsUrl": "https://www.google.com/maps/place/Persian+Cove/data=!4m2!3m1!1s0x3ae25b8a1fc52587:0x4d45c33825da128a",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Boralesgamuwa",
     "tags": [
       "family-outing",
       "friends-meetup"
@@ -25,12 +25,12 @@
     "name": "Delizo",
     "googleMapsUrl": "https://www.google.com/maps/place/Delizo/data=!4m2!3m1!1s0x3ae25b8b3ecdc5d3:0x3dce4446686c9c04",
     "district": "Colombo",
-    "area": "Colombo 04",
+    "area": "Mount Lavinia",
     "tags": [
       "dessert",
       "friends-meetup"
     ],
-    "description": "Popular dessert and casual dining spot in Colombo 04 known for its sweet treats and relaxed vibe."
+    "description": "Popular dessert and casual dining spot in Mount Lavinia known for its sweet treats and relaxed vibe."
   },
   {
     "name": "The Merchant Galle Fort",
@@ -48,24 +48,24 @@
     "name": "Heritage Colombo Restaurant & Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Heritage+Colombo+Restaurant+%26+Cafe/data=!4m2!3m1!1s0x3ae25b004774ce5d:0xcaf5c9ca34817044",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "coffee",
       "brunch",
       "calm-place"
     ],
-    "description": "Charming cafe in Colombo blending heritage architecture with a modern brunch menu and good coffee."
+    "description": "Charming cafe in Colombo 04 blending heritage architecture with a modern brunch menu and good coffee."
   },
   {
     "name": "Locos Colombo",
     "googleMapsUrl": "https://www.google.com/maps/place/Locos+Colombo/data=!4m2!3m1!1s0x3ae25945d0120bd9:0x8b8947330a309d4d",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 05",
     "tags": [
       "friends-meetup",
       "bar-vibes"
     ],
-    "description": "Lively Mexican-inspired restaurant and bar in Colombo known for tacos, burritos, and a vibrant party atmosphere."
+    "description": "Lively Mexican-inspired restaurant and bar in Colombo 05 known for tacos, burritos, and vibrant party atmosphere."
   },
   {
     "name": "Vistas Bar",
@@ -83,19 +83,19 @@
     "name": "Summer Colombo",
     "googleMapsUrl": "https://www.google.com/maps/place/Summer+Colombo/data=!4m2!3m1!1s0x3ae25984b6ea69ad:0x41753ff62cfedefa",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "brunch",
       "instagram-worthy",
       "friends-meetup"
     ],
-    "description": "Trendy brunch and all-day dining spot in Colombo with vibrant interiors and a health-conscious menu."
+    "description": "Trendy brunch and all-day dining spot in Colombo 03 with vibrant interiors and a health-conscious menu."
   },
   {
     "name": "Kopikup",
     "googleMapsUrl": "https://www.google.com/maps/place/Kopikup/data=!4m2!3m1!1s0x3ae25947f0118e3d:0x46b9e874f8474d70",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 05",
     "tags": [
       "coffee",
       "laptop-work",
@@ -132,25 +132,25 @@
     "name": "Kai Colombo- Speciality Coffee Bar and Eatery",
     "googleMapsUrl": "https://www.google.com/maps/place/Kai+Colombo-+Speciality+Coffee+Bar+and+Eatery/data=!4m2!3m1!1s0x3ae2590077592baf:0x27efcfbd6002c560",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "coffee",
       "brunch",
       "laptop-work"
     ],
-    "description": "Specialty coffee bar in Colombo serving expertly brewed single-origin coffee alongside a curated brunch menu."
+    "description": "Specialty coffee bar in Colombo 07 serving expertly brewed single-origin coffee alongside a curated brunch menu."
   },
   {
     "name": "Waveside Bistro",
     "googleMapsUrl": "https://www.google.com/maps/place/Waveside+Bistro/data=!4m2!3m1!1s0x3ae115a3c0eae6af:0x9defc76853700e22",
-    "district": "Matara",
-    "area": "Mirissa",
+    "district": "Galle",
+    "area": "Galle",
     "tags": [
       "beach-side",
       "good-view",
       "friends-meetup"
     ],
-    "description": "Beachside bistro in Mirissa offering ocean views, fresh seafood, and a breezy casual dining experience."
+    "description": "Beachside bistro near Galle offering ocean views, fresh seafood, and a breezy casual dining experience."
   },
   {
     "name": "Dutch Trails Sri Lanka",
@@ -168,7 +168,7 @@
     "name": "Mama’s Pot Bakery",
     "googleMapsUrl": "https://www.google.com/maps/place/Mama%E2%80%99s+Pot+Bakery/data=!4m2!3m1!1s0x3ae259af97353335:0x169e79fc9072bcea",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 06",
     "tags": [
       "dessert",
       "coffee",
@@ -179,20 +179,20 @@
   {
     "name": "MÁ",
     "googleMapsUrl": "https://www.google.com/maps/place/M%C3%81/data=!4m2!3m1!1s0x3ae259def25fb2c7:0xe551fa0f4ceb4b73",
-    "district": "Colombo",
-    "area": "Colombo 08",
+    "district": "Galle",
+    "area": "Galle Fort",
     "tags": [
       "fine-dining",
       "date-spot",
       "instagram-worthy"
     ],
-    "description": "Contemporary fine-dining restaurant in Colombo 08 with a refined tasting menu and elegant modern interiors."
+    "description": "Contemporary fine-dining restaurant in Galle Fort with a refined tasting menu and elegant colonial-modern interiors."
   },
   {
     "name": "Harpo's",
     "googleMapsUrl": "https://www.google.com/maps/place/Harpo's/data=!4m2!3m1!1s0x3ae2599d4b40728f:0x2db094b084b8cb9b",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 05",
     "tags": [
       "pizza",
       "friends-meetup",
@@ -241,7 +241,7 @@
     "name": "Latte Ceylon",
     "googleMapsUrl": "https://www.google.com/maps/place/Latte+Ceylon/data=!4m2!3m1!1s0x3ae259db65c5881f:0xbb60e3ce5ebcc722",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "coffee",
       "dessert",
@@ -253,13 +253,13 @@
     "name": "WILDISH",
     "googleMapsUrl": "https://www.google.com/maps/place/WILDISH/data=!4m2!3m1!1s0x3ae2590031a7ffcf:0xa7663b146e306e1e",
     "district": "Colombo",
-    "area": "Colombo 02",
+    "area": "Colombo 07",
     "tags": [
       "brunch",
       "coffee",
       "instagram-worthy"
     ],
-    "description": "Health-forward brunch spot in Colombo 02 with creative dishes, smoothie bowls, and a photogenic tropical setting."
+    "description": "Health-forward brunch spot in Colombo 07 with creative dishes, smoothie bowls, and a photogenic tropical setting."
   },
   {
     "name": "Ceylon Kitchen",
@@ -312,7 +312,7 @@
     "name": "Oh My Cake!",
     "googleMapsUrl": "https://www.google.com/maps/place/Oh+My+Cake!/data=!4m2!3m1!1s0x3ae25b0ad6066e6f:0x490995f239f9c15f",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "dessert",
       "coffee",
@@ -324,7 +324,7 @@
     "name": "Daily Dough by Brown Sugar",
     "googleMapsUrl": "https://www.google.com/maps/place/Daily+Dough+by+Brown+Sugar/data=!4m2!3m1!1s0x3ae259d899959beb:0xb4a787a23d0ac76f",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "dessert",
       "coffee",
@@ -336,24 +336,24 @@
     "name": "Truffles Pizzeria",
     "googleMapsUrl": "https://www.google.com/maps/place/Truffles+Pizzeria/data=!4m2!3m1!1s0x3ae2591cf52c0bf3:0x595d512cf07fcab0",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "pizza",
       "friends-meetup"
     ],
-    "description": "Casual pizzeria in Colombo known for cheesy truffle-flavoured pizzas and a no-frills, friendly dining experience."
+    "description": "Casual pizzeria in Colombo 07 known for cheesy truffle-flavoured pizzas and a no-frills, friendly dining experience."
   },
   {
     "name": "Mezo",
     "googleMapsUrl": "https://www.google.com/maps/place/Mezo/data=!4m2!3m1!1s0x3ae259b21a4200eb:0x59f93226baa0127e",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 02",
     "tags": [
       "fine-dining",
       "date-spot",
       "bar-vibes"
     ],
-    "description": "Middle Eastern and Mediterranean restaurant in Colombo with stylish interiors, craft cocktails, and a refined sharing-plates menu."
+    "description": "Middle Eastern and Mediterranean restaurant in Colombo 02 with stylish interiors, craft cocktails, and a refined sharing-plates menu."
   },
   {
     "name": "Lunuganga",
@@ -372,12 +372,12 @@
     "name": "KARABU",
     "googleMapsUrl": "https://www.google.com/maps/place/KARABU/data=!4m2!3m1!1s0x3ae25b62cac895eb:0xfa1ddb76f686f0b2",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "fine-dining",
       "date-spot"
     ],
-    "description": "Upscale Sri Lankan restaurant offering contemporary interpretations of local cuisine in a stylish Colombo setting."
+    "description": "Upscale Sri Lankan restaurant offering contemporary interpretations of local cuisine in a stylish Colombo 04 setting."
   },
   {
     "name": "Leonardo by Bella Vita Italian Restaurant",
@@ -394,25 +394,25 @@
   {
     "name": "La Luna Pizzeria & Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/La+Luna+Pizzeria+%26+Cafe/data=!4m2!3m1!1s0x3ae25b386356a697:0x628bfff8fd49e57f",
-    "district": "Colombo",
-    "area": "Colombo",
+    "district": "Galle",
+    "area": "Ahangama",
     "tags": [
       "pizza",
       "friends-meetup",
       "beach-side"
     ],
-    "description": "Popular pizzeria in Colombo serving wood-fired pizzas and Italian-inspired dishes in a laid-back atmosphere."
+    "description": "Popular beachside pizzeria in the Ahangama area serving wood-fired pizzas and Italian-inspired dishes in a laid-back atmosphere."
   },
   {
     "name": "The ‘Stache",
     "googleMapsUrl": "https://www.google.com/maps/place/The+%E2%80%98Stache/data=!4m2!3m1!1s0x3ae25b13086b4f5d:0xaf2179d55380b856",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "bar-vibes",
       "friends-meetup"
     ],
-    "description": "Quirky bar and eatery in Colombo with a fun moustache theme, creative cocktails, and a sociable pub atmosphere."
+    "description": "Quirky bar and eatery in Colombo 04 with a fun moustache theme, creative cocktails, and a sociable pub atmosphere."
   },
   {
     "name": "Kai Beach Club Weligama",
@@ -442,14 +442,14 @@
   {
     "name": "Cafe Kandy Road",
     "googleMapsUrl": "https://www.google.com/maps/place/Cafe+Kandy+Road/data=!4m2!3m1!1s0x3ae2f9ddf7e76aad:0xc6c56fe25acafb10",
-    "district": "Gampaha",
-    "area": "Kadawatha",
+    "district": "Colombo",
+    "area": "Rajagiriya",
     "tags": [
       "coffee",
       "brunch",
       "calm-place"
     ],
-    "description": "Charming cafe on the Kandy Road stretch in Kadawatha with a cozy interior and a solid brunch and coffee menu."
+    "description": "Charming cafe on the Kandy Road stretch in Rajagiriya with a cozy interior and a solid brunch and coffee menu."
   },
   {
     "name": "CRUST AHANGAMA",
@@ -466,13 +466,13 @@
   {
     "name": "THILENI'S",
     "googleMapsUrl": "https://www.google.com/maps/place/THILENI'S/data=!4m2!3m1!1s0x3ae1136b83667fc5:0xa72746f7f5d3b60a",
-    "district": "Galle",
-    "area": "Ahangama",
+    "district": "Colombo",
+    "area": "Battaramulla",
     "tags": [
       "family-outing",
       "friends-meetup"
     ],
-    "description": "Family-run restaurant in the Ahangama area known for generous portions of home-style Sri Lankan and fusion dishes."
+    "description": "Family-run restaurant in the Battaramulla area known for generous portions of home-style Sri Lankan and fusion dishes."
   },
   {
     "name": "Nomad Café",
@@ -490,30 +490,30 @@
     "name": "Peppermint Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Peppermint+Cafe/data=!4m2!3m1!1s0x3ae259c289fa12e1:0xdb8b64b053e30924",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "coffee",
       "dessert",
       "calm-place"
     ],
-    "description": "Cozy neighbourhood cafe in Colombo with a fresh, minty aesthetic serving light meals, cakes, and good coffee."
+    "description": "Cozy neighbourhood cafe in Colombo 03 with a fresh, minty aesthetic serving light meals, cakes, and good coffee."
   },
   {
     "name": "Taco Shack",
     "googleMapsUrl": "https://www.google.com/maps/place/Taco+Shack/data=!4m2!3m1!1s0x3ae25bc22b0d1ad9:0xdb4340c78528dd9",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "friends-meetup",
       "bar-vibes"
     ],
-    "description": "Casual taco joint in Colombo dishing out loaded tacos, nachos, and Mexican-inspired street food in a fun, colourful setting."
+    "description": "Casual taco joint in Colombo 03 dishing out loaded tacos, nachos, and Mexican-inspired street food in a fun, colourful setting."
   },
   {
     "name": "Chili's Grill & Bar",
     "googleMapsUrl": "https://www.google.com/maps/place/Chili's+Grill+%26+Bar/data=!4m2!3m1!1s0x3ae2595ac4fcc58b:0xd8d73bc88fa1104",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "friends-meetup",
       "family-outing"
@@ -523,55 +523,67 @@
   {
     "name": "The Coffee Craft",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Coffee+Craft/data=!4m2!3m1!1s0x3ae259fb16ef7ebb:0x7387d96439d2918f",
-    "district": "Colombo",
-    "area": "Colombo",
+    "district": "Matara",
+    "area": "Weligama",
     "tags": [
       "coffee",
       "calm-place"
     ],
-    "description": "Small specialty coffee shop in Colombo focused on carefully crafted brews and a relaxed, intimate cafe experience."
+    "description": "Small specialty coffee shop in Weligama focused on carefully crafted brews and a relaxed, intimate cafe experience."
   },
   {
     "name": "Cafe NOVO",
     "googleMapsUrl": "https://www.google.com/maps/place/Cafe+NOVO/data=!4m2!3m1!1s0x3ae24500455c6d97:0xf42a49609b239349",
-    "district": "Gampaha",
-    "area": "Wattala",
+    "district": "Colombo",
+    "area": "Kottawa",
     "tags": [
       "coffee",
       "brunch",
       "friends-meetup"
     ],
-    "description": "Modern cafe in the Wattala area serving brunch plates, coffee, and casual bites in a contemporary setting."
+    "description": "Modern cafe in the Kottawa area serving brunch plates, coffee, and casual bites in a contemporary setting."
+  },
+  {
+    "name": "La Ceylon Pizzeria & Cafe",
+    "googleMapsUrl": "https://www.google.com/maps/place/La+Ceylon+Pizzeria+%26+Cafe/data=!4m2!3m1!1s0x3ae2570002eeedd3:0x6ba4c2480c236e79",
+    "district": "Galle",
+    "area": "Ahangama",
+    "tags": [
+      "pizza",
+      "beach-side",
+      "friends-meetup"
+    ],
+    "description": "Beachside pizzeria near Ahangama blending Italian pizza-making with Sri Lankan coastal vibes and ocean views."
   },
   {
     "name": "Brown Sugar",
     "googleMapsUrl": "https://www.google.com/maps/place/Brown+Sugar/data=!4m2!3m1!1s0x3ae259902dac5f7d:0x55047093fae65bfe",
-    "district": "Colombo",
-    "area": "Colombo",
+    "district": "Matara",
+    "area": "Weligama",
     "tags": [
       "brunch",
       "dessert",
       "friends-meetup"
     ],
-    "description": "Popular bakery-cafe in Colombo known for fresh pastries, cakes, and hearty brunch dishes in a warm, welcoming space."
+    "description": "Popular bakery-cafe in Weligama known for fresh pastries, cakes, and hearty brunch dishes in a warm, welcoming space."
   },
   {
     "name": "Pranzo",
     "googleMapsUrl": "https://www.google.com/maps/place/Pranzo/data=!4m2!3m1!1s0x3ae259f95b98eedf:0x6a022a3ab36063a6",
     "district": "Colombo",
-    "area": "Battaramulla",
+    "area": "Colombo 04",
     "tags": [
       "pizza",
       "fine-dining",
       "date-spot"
     ],
-    "description": "Italian restaurant in Battaramulla offering wood-fired pizzas, handmade pasta, and classic Italian dishes with a refined touch."
+    "description": "Italian restaurant in Colombo 04 offering wood-fired pizzas, handmade pasta, and classic Italian dishes with a refined touch."
   },
   {
     "name": "Pizza Factory",
     "googleMapsUrl": "https://www.google.com/maps/place/Pizza+Factory/data=!4m2!3m1!1s0x3ae259b325989f83:0x725202eb38f8c610",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 02",
     "tags": [
       "pizza",
       "friends-meetup"
@@ -582,19 +594,19 @@
     "name": "The Sanctuarii",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Sanctuarii/data=!4m2!3m1!1s0x3ae259f17d4faafb:0x5017e757646f1333",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "calm-place",
       "date-spot",
       "instagram-worthy"
     ],
-    "description": "Serene cafe and wellness-inspired space in Colombo with calming interiors, healthy food options, and a peaceful ambiance."
+    "description": "Serene cafe and wellness-inspired space in Colombo 03 with calming interiors, healthy food options, and a peaceful ambiance."
   },
   {
     "name": "Gini",
     "googleMapsUrl": "https://www.google.com/maps/place/Gini/data=!4m2!3m1!1s0x3ae25b38b7b759a3:0x8f181c386681ac3f",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "bar-vibes",
       "friends-meetup",
@@ -606,49 +618,49 @@
     "name": "THE CAULDRON",
     "googleMapsUrl": "https://www.google.com/maps/place/THE+CAULDRON/data=!4m2!3m1!1s0x3ae25bb546eb2cd5:0x1483e3a906e6c7d1",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "brunch",
       "coffee",
       "friends-meetup"
     ],
-    "description": "Eclectic cafe in Colombo with a creative brunch menu, specialty coffee, and a unique, atmospheric interior."
+    "description": "Eclectic cafe in Colombo 03 with a creative brunch menu, specialty coffee, and a unique, atmospheric interior."
   },
   {
     "name": "The Green Door",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Green+Door/data=!4m2!3m1!1s0x3ae465002fc6ab03:0xefa35c27634af366",
-    "district": "Badulla",
-    "area": "Ella",
+    "district": "Colombo",
+    "area": "Colombo 05",
     "tags": [
       "calm-place",
       "coffee",
       "brunch"
     ],
-    "description": "Hidden gem cafe in Ella with a garden-like setting, organic menu options, and a peaceful retreat surrounded by hill-country scenery."
+    "description": "Hidden gem cafe in Colombo 05 with a garden-like setting, organic menu options, and a peaceful retreat from city noise."
   },
   {
     "name": "Cloe Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Cloe+Cafe/data=!4m2!3m1!1s0x3ae25b102206f793:0x6b12078c296b8440",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "coffee",
       "brunch",
       "instagram-worthy"
     ],
-    "description": "Chic brunch cafe in Colombo with aesthetically curated interiors, specialty coffee, and photogenic plated dishes."
+    "description": "Chic brunch cafe in Colombo 04 with aesthetically curated interiors, specialty coffee, and photogenic plated dishes."
   },
   {
     "name": "Cucina by 3Brothers",
     "googleMapsUrl": "https://www.google.com/maps/place/Cucina+by+3Brothers/data=!4m2!3m1!1s0x3ae259124f63a9c3:0x6d50f17600b00f74",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "pizza",
       "friends-meetup",
       "family-outing"
     ],
-    "description": "Italian family-style restaurant in Colombo run by three brothers, known for hearty pastas, pizzas, and generous portions."
+    "description": "Italian family-style restaurant in Colombo 07 run by three brothers, known for hearty pastas, pizzas, and generous portions."
   },
   {
     "name": "The Cliff Weligama",
@@ -667,43 +679,43 @@
     "name": "The Chinwag",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Chinwag/data=!4m2!3m1!1s0x3ae259005c8a1207:0x99149068775667d9",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "coffee",
       "brunch",
       "friends-meetup"
     ],
-    "description": "Social cafe and eatery in Colombo, a great spot for casual catch-ups with friends over coffee and comfort food."
+    "description": "Social cafe and eatery in Colombo 07, a great spot for casual catch-ups with friends over coffee and comfort food."
   },
   {
     "name": "Ququ Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Ququ+Cafe/data=!4m2!3m1!1s0x3ae259d92ada1b51:0x997f2454e53f41d6",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Nugegoda",
     "tags": [
       "coffee",
       "dessert",
       "calm-place"
     ],
-    "description": "Neighbourhood cafe in Colombo offering specialty coffee, homemade cakes, and a quiet, pleasant atmosphere."
+    "description": "Neighbourhood cafe in Nugegoda offering specialty coffee, homemade cakes, and a quiet, pleasant atmosphere."
   },
   {
     "name": "Central Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Central+Cafe/data=!4m2!3m1!1s0x3ae259b2b4236267:0x8c8e2aad76ad0282",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 02",
     "tags": [
       "coffee",
       "brunch",
       "laptop-work"
     ],
-    "description": "Centrally located cafe in Colombo popular for quick coffee meetings, light bites, and a convenient working spot."
+    "description": "Centrally located cafe in Colombo 02 popular for quick coffee meetings, light bites, and a convenient working spot."
   },
   {
     "name": "Life’s Good Kitchen",
     "googleMapsUrl": "https://www.google.com/maps/place/Life%E2%80%99s+Good+Kitchen/data=!4m2!3m1!1s0x3ae259b06182f68d:0xabc7b34a80b660b0",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 02",
     "tags": [
       "brunch",
       "friends-meetup"
@@ -714,7 +726,7 @@
     "name": "Pho Vietnam- Vietnamese Restaurant",
     "googleMapsUrl": "https://www.google.com/maps/place/Pho+Vietnam-+Vietnamese+Restaurant/data=!4m2!3m1!1s0x3ae25bd0f8257ed9:0xaadaaa653df0b5c7",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "friends-meetup",
       "date-spot"
@@ -737,7 +749,7 @@
     "name": "Kaffi Colombo",
     "googleMapsUrl": "https://www.google.com/maps/place/Kaffi+Colombo/data=!4m2!3m1!1s0x3ae2599a13481123:0x19e07f04ac453c94",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "coffee",
       "laptop-work",
@@ -749,13 +761,13 @@
     "name": "Cafe Chocolattie",
     "googleMapsUrl": "https://www.google.com/maps/place/Cafe+Chocolattie/data=!4m2!3m1!1s0x3ae25b116eea42f5:0x91fe5ebcb28a0fc2",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "dessert",
       "coffee",
       "friends-meetup"
     ],
-    "description": "Chocolate-themed cafe in Colombo offering an indulgent range of chocolate desserts, cakes, hot chocolate, and coffee."
+    "description": "Chocolate-themed cafe in Colombo 04 offering an indulgent range of chocolate desserts, cakes, hot chocolate, and coffee."
   },
   {
     "name": "Boardwalk by Waters Edge",
@@ -808,13 +820,13 @@
     "name": "IBSONS CHOICE CAFE",
     "googleMapsUrl": "https://www.google.com/maps/place/IBSONS+CHOICE+CAFE/data=!4m2!3m1!1s0x3ae2590fffecbc21:0x8b16bae20c3fc579",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 06",
     "tags": [
       "coffee",
       "brunch",
       "calm-place"
     ],
-    "description": "Neighbourhood cafe in Colombo with a relaxed atmosphere, home-style food, and good coffee for a quiet meal."
+    "description": "Neighbourhood cafe in Colombo 06 with a relaxed atmosphere, home-style food, and good coffee for a quiet meal."
   },
   {
     "name": "Kaffi Ahangama",
@@ -833,13 +845,13 @@
     "name": "Social Affairs",
     "googleMapsUrl": "https://www.google.com/maps/place/Social+Affairs/data=!4m2!3m1!1s0x3ae25b0d3b9d6c3b:0x5d33b69e0bd53d9",
     "district": "Colombo",
-    "area": "Colombo 05",
+    "area": "Colombo 04",
     "tags": [
       "bar-vibes",
       "friends-meetup",
       "brunch"
     ],
-    "description": "Sociable bar-cafe in Colombo 05 popular for weekend brunch, evening cocktails, and a lively gathering atmosphere."
+    "description": "Sociable bar-cafe in Colombo 04 popular for weekend brunch, evening cocktails, and a lively gathering atmosphere."
   },
   {
     "name": "Cafe Kinross",
@@ -857,25 +869,25 @@
     "name": "Headquarters by W15",
     "googleMapsUrl": "https://www.google.com/maps/place/Headquarters+by+W15/data=!4m2!3m1!1s0x3ae2599b3fb0e24b:0x5ad2f375f2dc1401",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "bar-vibes",
       "friends-meetup",
       "date-spot"
     ],
-    "description": "Stylish lounge bar and restaurant by W15 in Colombo, known for craft cocktails, sharing plates, and upscale nightlife."
+    "description": "Stylish lounge bar and restaurant by W15 in Colombo 07, known for craft cocktails, sharing plates, and upscale nightlife."
   },
   {
     "name": "Café Chocolate",
     "googleMapsUrl": "https://www.google.com/maps/place/Caf%C3%A9+Chocolate/data=!4m2!3m1!1s0x3ae247a3b7494a71:0x1fc4b99760289c3e",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Maharagama",
     "tags": [
       "dessert",
       "coffee",
       "family-outing"
     ],
-    "description": "Chocolate-focused cafe in Colombo serving hot chocolate, chocolate desserts, and a family-friendly sweet-treats menu."
+    "description": "Chocolate-focused cafe in the Maharagama area serving hot chocolate, chocolate desserts, and a family-friendly sweet-treats menu."
   },
   {
     "name": "Artisan Diletto OGF",
@@ -916,20 +928,20 @@
     "name": "Culture Colombo",
     "googleMapsUrl": "https://www.google.com/maps/place/Culture+Colombo/data=!4m2!3m1!1s0x3ae25bb558a52231:0x1edf1d9e7f4941fd",
     "district": "Colombo",
-    "area": "Colombo 07",
+    "area": "Colombo 03",
     "tags": [
       "coffee",
       "brunch",
       "instagram-worthy",
       "laptop-work"
     ],
-    "description": "Design-forward cafe in Colombo 07 with a curated aesthetic, specialty coffee, creative brunch dishes, and a work-friendly atmosphere."
+    "description": "Design-forward cafe in Colombo 03 with a curated aesthetic, specialty coffee, creative brunch dishes, and a work-friendly atmosphere."
   },
   {
     "name": "The Paddock Club Café & Lounge",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Paddock+Club+Caf%C3%A9+%26+Lounge/data=!4m2!3m1!1s0x3ae25bb91754c2a9:0x3973adf61d5eb347",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "brunch",
       "date-spot",
@@ -940,19 +952,19 @@
   {
     "name": "ODIN’s LK",
     "googleMapsUrl": "https://www.google.com/maps/place/ODIN%E2%80%99s+LK/data=!4m2!3m1!1s0x3ae13f005c2e62b1:0xfbc624f4c287041f",
-    "district": "Matara",
-    "area": "Mirissa",
+    "district": "Colombo",
+    "area": "Dehiwala",
     "tags": [
       "friends-meetup",
       "bar-vibes"
     ],
-    "description": "Themed bar and restaurant in the Mirissa area with a Norse-inspired concept, cocktails, and a fun social dining experience."
+    "description": "Themed bar and restaurant in the Dehiwala area with a Norse-inspired concept, cocktails, and a fun social dining experience."
   },
   {
     "name": "Churros",
     "googleMapsUrl": "https://www.google.com/maps/place/Churros/data=!4m2!3m1!1s0x3ae2592590e3e5ff:0x6c07d35cfc70f211",
     "district": "Colombo",
-    "area": "Colombo 01",
+    "area": "Colombo 06",
     "tags": [
       "dessert",
       "friends-meetup"
@@ -963,13 +975,13 @@
     "name": "KEKU the habitat store",
     "googleMapsUrl": "https://www.google.com/maps/place/KEKU+the+habitat+store/data=!4m2!3m1!1s0x3ae25b595b284a27:0xb0a36a5512ec1226",
     "district": "Colombo",
-    "area": "Nugegoda",
+    "area": "Colombo 03",
     "tags": [
       "coffee",
       "calm-place",
       "instagram-worthy"
     ],
-    "description": "Lifestyle store and cafe hybrid in Nugegoda with curated homeware, plants, specialty coffee, and a beautifully designed interior."
+    "description": "Lifestyle store and cafe hybrid in Colombo 03 with curated homeware, plants, specialty coffee, and a beautifully designed interior."
   },
   {
     "name": "The Commons Coffee House",
@@ -999,12 +1011,12 @@
     "name": "Fusion Cuzinos Restaurant 🍔",
     "googleMapsUrl": "https://www.google.com/maps/place/Fusion+Cuzinos+Restaurant+%F0%9F%8D%94/data=!4m2!3m1!1s0x3ae251283992c20b:0x43f9f328f76ba3c5",
     "district": "Colombo",
-    "area": "Athurugiriya",
+    "area": "Homagama",
     "tags": [
       "friends-meetup",
       "family-outing"
     ],
-    "description": "Casual fusion restaurant in the Athurugiriya area serving burgers, rice dishes, and a mix of Western and Sri Lankan comfort food."
+    "description": "Casual fusion restaurant in the Homagama area serving burgers, rice dishes, and a mix of Western and Sri Lankan comfort food."
   },
   {
     "name": "Galle Fort Restaurant",
@@ -1022,24 +1034,24 @@
     "name": "Coffee Colombo",
     "googleMapsUrl": "https://www.google.com/maps/place/Coffee+Colombo/data=!4m2!3m1!1s0x3ae25b324d868ebd:0xb79629add581a9d5",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "coffee",
       "laptop-work"
     ],
-    "description": "No-frills coffee shop in Colombo focused on well-brewed Sri Lankan coffee and a casual, work-friendly environment."
+    "description": "No-frills coffee shop in Colombo 03 focused on well-brewed Sri Lankan coffee and a casual, work-friendly environment."
   },
   {
     "name": "Giovanni's",
     "googleMapsUrl": "https://www.google.com/maps/place/Giovanni's/data=!4m2!3m1!1s0x3ae25bd171cb0605:0xfd0ff5157545af87",
     "district": "Colombo",
-    "area": "Colombo 05",
+    "area": "Nugegoda",
     "tags": [
       "pizza",
       "friends-meetup",
       "family-outing"
     ],
-    "description": "Italian restaurant in Colombo 05 serving wood-fired pizza, creamy pastas, and classic Italian fare in a warm family setting."
+    "description": "Italian restaurant in Nugegoda serving wood-fired pizza, creamy pastas, and classic Italian fare in a warm family setting."
   },
   {
     "name": "The Social Unawatuna",
@@ -1055,57 +1067,57 @@
     "description": "Beach bar and restaurant in Unawatuna with ocean views, sunset cocktails, and a laid-back social vibe popular with travellers."
   },
   {
-    "name": "Vito Wood Fired Pizza - Cmb",
+    "name": "Vito Wood Fired Pizza",
     "googleMapsUrl": "https://www.google.com/maps/place/Vito+Wood+Fired+Pizza/data=!4m2!3m1!1s0x3ae2590056f09e07:0x8f74dec3758f2150",
-    "district": "Colombo",
-    "area": "Colombo",
+    "district": "Matara",
+    "area": "Weligama",
     "tags": [
       "pizza",
       "beach-side",
       "friends-meetup"
     ],
-    "description": "Artisan wood-fired pizza spot in Colombo delivering crispy Neapolitan-style pies in a casual setting."
+    "description": "Artisan wood-fired pizza spot in Weligama delivering crispy Neapolitan-style pies in a casual beachside atmosphere."
   },
   {
     "name": "Ayla Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Ayla+Cafe/data=!4m2!3m1!1s0x3ae2fd0017d6a30b:0x9161b7877b57722f",
-    "district": "Gampaha",
-    "area": "Gampaha",
+    "district": "Galle",
+    "area": "Galle Fort",
     "tags": [
       "coffee",
       "calm-place",
       "brunch"
     ],
-    "description": "Intimate cafe in Gampaha with a peaceful setting, good coffee, and light Middle Eastern-inspired bites."
+    "description": "Intimate cafe inside Galle Fort with a peaceful setting, good coffee, and light Middle Eastern-inspired bites."
   },
   {
     "name": "Caribbean Pizza",
     "googleMapsUrl": "https://www.google.com/maps/place/Caribbean+Pizza/data=!4m2!3m1!1s0x3ae245b8feb0c9d3:0xa64b3f069206b33",
     "district": "Colombo",
-    "area": "Moratuwa",
+    "area": "Colombo 07",
     "tags": [
       "pizza",
       "friends-meetup"
     ],
-    "description": "Fun pizza joint in Moratuwa with Caribbean-inspired flavours, generous toppings, and a casual eat-in or takeaway experience."
+    "description": "Fun pizza joint in Colombo 07 with Caribbean-inspired flavours, generous toppings, and a casual eat-in or takeaway experience."
   },
   {
     "name": "Tito's Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Tito's+Cafe/data=!4m2!3m1!1s0x3ae2591b11db907f:0x718c19a34caa54d7",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "coffee",
       "brunch",
       "calm-place"
     ],
-    "description": "Relaxed neighbourhood cafe in Colombo offering comfort food, light bites, and a calm atmosphere for a quiet coffee break."
+    "description": "Relaxed neighbourhood cafe in Colombo 07 offering comfort food, light bites, and a calm atmosphere for a quiet coffee break."
   },
   {
     "name": "Piccolo's Pizzeria & Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Piccolo's+Pizzeria+%26+Cafe/data=!4m2!3m1!1s0x3ae2510054f84c2d:0xced3e1561f987108",
     "district": "Colombo",
-    "area": "Athurugiriya",
+    "area": "Colombo 04",
     "tags": [
       "pizza",
       "friends-meetup",
@@ -1117,48 +1129,48 @@
     "name": "SunsetBlu",
     "googleMapsUrl": "https://www.google.com/maps/place/SunsetBlu/data=!4m2!3m1!1s0x3ae259b2da6563f5:0xa7c921798d64c21c",
     "district": "Colombo",
-    "area": "Colombo 03",
+    "area": "Colombo 02",
     "tags": [
       "good-view",
       "date-spot",
       "bar-vibes"
     ],
-    "description": "Waterfront dining venue on Beira Lake in Colombo 03 with beautiful sunset views, seafood, and an elegant evening ambiance."
+    "description": "Waterfront dining venue on Beira Lake in Colombo 02 with beautiful sunset views, seafood, and an elegant evening ambiance."
   },
   {
     "name": "Dunkers Churros & Drinks",
     "googleMapsUrl": "https://www.google.com/maps/place/Dunkers+Churros+%26+Drinks/data=!4m2!3m1!1s0x3ae259b7fb2047dd:0x16985c30139eefd8",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "dessert",
       "friends-meetup"
     ],
-    "description": "Specialty churros and drinks bar in Colombo offering freshly made churros dunked in various sauces and paired with milkshakes."
+    "description": "Specialty churros and drinks bar in Colombo 07 offering freshly made churros dunked in various sauces and paired with milkshakes."
   },
   {
     "name": "Melissa's Food Court",
     "googleMapsUrl": "https://www.google.com/maps/place/Melissa's+Food+Court/data=!4m2!3m1!1s0x3ae2fd58661c0823:0x55ba8bed07c1eda5",
-    "district": "Gampaha",
-    "area": "Yakkala",
+    "district": "Colombo",
+    "area": "Nugegoda",
     "tags": [
       "family-outing",
       "friends-meetup"
     ],
-    "description": "Multi-cuisine food court in Yakkala offering a variety of dining options under one roof at accessible prices."
+    "description": "Multi-cuisine food court in Nugegoda offering a variety of dining options under one roof at accessible prices."
   },
   {
     "name": "Black Honey",
     "googleMapsUrl": "https://www.google.com/maps/place/Black+Honey/data=!4m2!3m1!1s0x3ae16d678b4a74ef:0xf3f9b54fcb3d3989",
     "district": "Galle",
-    "area": "Ahangama",
+    "area": "Unawatuna",
     "tags": [
       "coffee",
       "brunch",
       "calm-place",
       "good-view"
     ],
-    "description": "Lush poolside cafe near Ahangama with great coffee, brunch dishes, and a tranquil garden setting surrounded by greenery."
+    "description": "Lush poolside cafe near Unawatuna with great coffee, brunch dishes, and a tranquil garden setting surrounded by greenery."
   },
   {
     "name": "Turtle Point Bathigama Dickwella",
@@ -1176,19 +1188,19 @@
     "name": "Caramel Pumpkin",
     "googleMapsUrl": "https://www.google.com/maps/place/Caramel+Pumpkin/data=!4m2!3m1!1s0x3ae25974764a0b61:0x41d64bda81508bb",
     "district": "Colombo",
-    "area": "Colombo 07",
+    "area": "Colombo 03",
     "tags": [
       "brunch",
       "dessert",
       "friends-meetup"
     ],
-    "description": "Charming brunch and dessert cafe in Colombo 07 known for its caramel treats, fluffy pancakes, and cozy ambiance."
+    "description": "Charming brunch and dessert cafe in Colombo 03 known for its caramel treats, fluffy pancakes, and cozy ambiance."
   },
   {
     "name": "The BLAC",
     "googleMapsUrl": "https://www.google.com/maps/place/The+BLAC/data=!4m2!3m1!1s0x3ae25b599871712f:0xdd7cf8381cd9f46f",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "coffee",
       "brunch",
@@ -1212,36 +1224,36 @@
     "name": "Steamsbury Tea & Coffee House by Santhiyagu",
     "googleMapsUrl": "https://www.google.com/maps/place/Steamsbury+Tea+%26+Coffee+House+by+Santhiyagu/data=!4m2!3m1!1s0x3ae2570006aabb6d:0x14590eb0b2ce876f",
     "district": "Colombo",
-    "area": "Battaramulla",
+    "area": "Colombo 06",
     "tags": [
       "coffee",
       "calm-place"
     ],
-    "description": "Steampunk-themed tea and coffee house in Battaramulla offering unique tea blends and specialty coffee in an eclectic vintage setting."
+    "description": "Steampunk-themed tea and coffee house in Colombo 06 offering unique tea blends and specialty coffee in an eclectic vintage setting."
   },
   {
     "name": "The Stage Cafe & Cake Bar",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Stage+Cafe+%26+Cake+Bar/data=!4m2!3m1!1s0x3ae2f867bab2b58b:0x7b5a7d86eb88e021",
-    "district": "Gampaha",
-    "area": "Kadawatha",
+    "district": "Colombo",
+    "area": "Maharagama",
     "tags": [
       "dessert",
       "coffee",
       "friends-meetup"
     ],
-    "description": "Cafe and cake bar in the Kadawatha area serving elaborate custom cakes, pastries, and coffee in a theatrical setting."
+    "description": "Cafe and cake bar in the Maharagama area serving elaborate custom cakes, pastries, and coffee in a theatrical setting."
   },
   {
     "name": "Dark Roast Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Dark+Roast+Cafe/data=!4m2!3m1!1s0x3ae25be7bd14dd0f:0x2f57924f767aa93",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "coffee",
       "laptop-work",
       "calm-place"
     ],
-    "description": "Specialty dark-roast coffee cafe in Colombo with a moody, industrial-chic interior and a menu focused on bold coffee flavours."
+    "description": "Specialty dark-roast coffee cafe in Colombo 04 with a moody, industrial-chic interior and a menu focused on bold coffee flavours."
   },
   {
     "name": "Park Street Warehouse - Restaurant & Pub",
@@ -1256,16 +1268,16 @@
     "description": "Warehouse-converted restaurant and pub on Park Street in Colombo 02 with craft beer, live music nights, and an industrial-chic atmosphere."
   },
   {
-    "name": "Arcadia - Cmb",
+    "name": "Arcadia",
     "googleMapsUrl": "https://www.google.com/maps/place/Arcadia/data=!4m2!3m1!1s0x3ae251deb488530d:0xdf3d65a2ccd0d047",
     "district": "Colombo",
-    "area": "Sri Jayawardenepura Kotte",
+    "area": "Kotte",
     "tags": [
       "calm-place",
       "family-outing",
       "good-view"
     ],
-    "description": "Garden restaurant in the Sri Jayawardenepura Kotte area with lush greenery, a peaceful atmosphere, and a family-friendly menu."
+    "description": "Garden restaurant in the Kotte area with lush greenery, a peaceful atmosphere, and a family-friendly menu."
   },
   {
     "name": "Basilur Lounge - One Galle Face",
@@ -1283,7 +1295,7 @@
     "name": "Gonuts With Donuts - Kirulapone",
     "googleMapsUrl": "https://www.google.com/maps/place/Gonuts+With+Donuts+-+Kirulapone/data=!4m2!3m1!1s0x3ae2599d0d7212d7:0x6c33cdbff44850a5",
     "district": "Colombo",
-    "area": "Kirulapone",
+    "area": "Colombo 05",
     "tags": [
       "dessert",
       "friends-meetup"
@@ -1294,18 +1306,18 @@
     "name": "KIKU Colombo",
     "googleMapsUrl": "https://www.google.com/maps/place/KIKU+Colombo/data=!4m2!3m1!1s0x3ae25b735c3dc199:0x22ad3074b31606bc",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "fine-dining",
       "date-spot"
     ],
-    "description": "Japanese restaurant in Colombo offering sushi, sashimi, and authentic Japanese cuisine in an elegant, minimal setting."
+    "description": "Japanese restaurant in Colombo 03 offering sushi, sashimi, and authentic Japanese cuisine in an elegant, minimal setting."
   },
   {
     "name": "Lounge 171",
     "googleMapsUrl": "https://www.google.com/maps/place/Lounge+171/data=!4m2!3m1!1s0x3ae25a7e3766c29d:0xd69561a603515a34",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 05",
     "tags": [
       "bar-vibes",
       "date-spot",
@@ -1329,42 +1341,42 @@
     "name": "Mama Louie's",
     "googleMapsUrl": "https://www.google.com/maps/place/Mama+Louie's/data=!4m2!3m1!1s0x3ae25b81c115a839:0x2a7a05e7d840716c",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "pizza",
       "friends-meetup"
     ],
-    "description": "Casual Italian-American eatery in Colombo serving loaded pizzas, burgers, and comfort food with generous portions."
+    "description": "Casual Italian-American eatery in Colombo 03 serving loaded pizzas, burgers, and comfort food with generous portions."
   },
   {
     "name": "London House Of Coffee",
     "googleMapsUrl": "https://www.google.com/maps/place/London+House+Of+Coffee/data=!4m2!3m1!1s0x3ae25970848088e1:0x2b65f313ce633ecb",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "coffee",
       "brunch",
       "calm-place"
     ],
-    "description": "English-inspired coffee house in Colombo offering freshly brewed coffee, eggs benedict, and other British-style breakfast and brunch dishes."
+    "description": "English-inspired coffee house in Colombo 07 offering freshly brewed coffee, eggs benedict, and other British-style breakfast and brunch dishes."
   },
   {
     "name": "DIVIDE Coffee & Matcha",
     "googleMapsUrl": "https://www.google.com/maps/place/DIVIDE+Coffee+%26+Matcha/data=!4m2!3m1!1s0x3ae25984ac9d9655:0x8e0661c216488f0f",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "coffee",
       "instagram-worthy",
       "calm-place"
     ],
-    "description": "Minimalist coffee and matcha bar in Colombo specialising in high-quality espresso and ceremonial-grade matcha drinks."
+    "description": "Minimalist coffee and matcha bar in Colombo 03 specialising in high-quality espresso and ceremonial-grade matcha drinks."
   },
   {
     "name": "Marine Spice",
     "googleMapsUrl": "https://www.google.com/maps/place/Marine+Spice/data=!4m2!3m1!1s0x3ae25b4826818ec5:0xf1f6cf56f0ddd5e1",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "fine-dining",
       "good-view",
@@ -1376,88 +1388,88 @@
     "name": "Grind",
     "googleMapsUrl": "https://www.google.com/maps/place/Grind/data=!4m2!3m1!1s0x3ae259b743d57c8b:0x7be7820d16320f16",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "coffee",
       "brunch",
       "laptop-work"
     ],
-    "description": "Modern coffee-centric cafe in Colombo with a work-friendly setup, strong espresso, and a compact all-day menu."
+    "description": "Modern coffee-centric cafe in Colombo 07 with a work-friendly setup, strong espresso, and a compact all-day menu."
   },
   {
     "name": "Hazel Café & Cakery",
     "googleMapsUrl": "https://www.google.com/maps/place/Hazel+Caf%C3%A9+%26+Cakery/data=!4m2!3m1!1s0x3ae25b87b6148a0f:0xca9b91f505a32933",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 06",
     "tags": [
       "dessert",
       "coffee",
       "calm-place"
     ],
-    "description": "Cozy neighbourhood bakery-cafe in Colombo serving homemade cakes, pastries, and coffee in a warm, rustic interior."
+    "description": "Cozy neighbourhood bakery-cafe in Colombo 06 serving homemade cakes, pastries, and coffee in a warm, rustic interior."
   },
   {
     "name": "Coffee Station",
     "googleMapsUrl": "https://www.google.com/maps/place/Coffee+Station/data=!4m2!3m1!1s0x3ae25bf73bd89471:0xcb41b65699e4c02c",
     "district": "Colombo",
-    "area": "Pepiliyana",
+    "area": "Colombo 06",
     "tags": [
       "coffee",
       "calm-place"
     ],
-    "description": "Neighbourhood coffee stop in Pepiliyana offering quick, quality brews and a simple, no-frills cafe experience."
+    "description": "Neighbourhood coffee stop in Colombo 06 offering quick, quality brews and a simple, no-frills cafe experience."
   },
   {
     "name": "Elpodio",
     "googleMapsUrl": "https://www.google.com/maps/place/Elpodio/data=!4m2!3m1!1s0x3ae259f9c19f5a93:0x4fc51b2fde32dd21",
     "district": "Colombo",
-    "area": "Battaramulla",
+    "area": "Colombo 04",
     "tags": [
       "fine-dining",
       "date-spot"
     ],
-    "description": "Contemporary fine-dining restaurant in Battaramulla offering an elevated culinary experience with creative Sri Lankan-inspired dishes."
+    "description": "Contemporary fine-dining restaurant in Colombo 04 offering an elevated culinary experience with creative Sri Lankan-inspired dishes."
   },
   {
     "name": "The Traveling Bruncher",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Traveling+Bruncher/data=!4m2!3m1!1s0x3ae259ced7c6707d:0xc2789534b126a522",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "brunch",
       "instagram-worthy",
       "friends-meetup"
     ],
-    "description": "Dedicated brunch spot in Colombo offering creative, photogenic breakfast plates and a vibrant social dining experience."
+    "description": "Dedicated brunch spot in Colombo 03 offering creative, photogenic breakfast plates and a vibrant social dining experience."
   },
   {
     "name": "The Templers Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Templers+Cafe/data=!4m2!3m1!1s0x3ae25b9236b796af:0xbc40982a5421c81f",
     "district": "Colombo",
-    "area": "Mount Lavinia",
+    "area": "Colombo 08",
     "tags": [
       "coffee",
       "calm-place",
       "brunch"
     ],
-    "description": "Hidden heritage cafe set in a restored colonial building in Mount Lavinia, offering a quiet escape with home-style food and garden seating."
+    "description": "Hidden heritage cafe set in a restored colonial building in Borella, offering a quiet escape with home-style food and garden seating."
   },
   {
     "name": "Mr. Hunger",
     "googleMapsUrl": "https://www.google.com/maps/place/Mr.+Hunger/data=!4m2!3m1!1s0x3ae31b0a3070a08f:0x94b16bb64fffb525",
     "district": "Colombo",
-    "area": "Kelaniya",
+    "area": "Piliyandala",
     "tags": [
       "friends-meetup",
       "family-outing"
     ],
-    "description": "Casual suburban eatery in Kelaniya serving burgers, rice packets, and quick comfort food at wallet-friendly prices."
+    "description": "Casual suburban eatery in Piliyandala serving burgers, rice packets, and quick comfort food at wallet-friendly prices."
   },
   {
     "name": "Kotte Junction",
     "googleMapsUrl": "https://www.google.com/maps/place/Kotte+Junction/data=!4m2!3m1!1s0x3ae251d562816a31:0x276f0ab78a2f4af",
     "district": "Colombo",
-    "area": "Sri Jayawardenepura Kotte",
+    "area": "Kotte",
     "tags": [
       "friends-meetup",
       "family-outing"
@@ -1468,30 +1480,30 @@
     "name": "Tunnel Lounge",
     "googleMapsUrl": "https://www.google.com/maps/place/Tunnel+Lounge/data=!4m2!3m1!1s0x3ae25bdd0dc851c9:0xf34113eb1486f549",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "bar-vibes",
       "date-spot"
     ],
-    "description": "Atmospheric underground lounge bar in Colombo with a tunnel-like interior, creative cocktails, and an intimate date-night vibe."
+    "description": "Atmospheric underground lounge bar in Colombo 04 with a tunnel-like interior, creative cocktails, and an intimate date-night vibe."
   },
   {
     "name": "Penne Italian Kitchen",
     "googleMapsUrl": "https://www.google.com/maps/place/Penne+Italian+Kitchen/data=!4m2!3m1!1s0x3ae25b2bcba4f4d7:0x2c7b5ab70bb4c741",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 04",
     "tags": [
       "pizza",
       "fine-dining",
       "date-spot"
     ],
-    "description": "Italian kitchen in Colombo specialising in handmade pastas, wood-fired pizzas, and classic Italian dishes in an intimate setting."
+    "description": "Italian kitchen in Colombo 04 specialising in handmade pastas, wood-fired pizzas, and classic Italian dishes in an intimate setting."
   },
   {
     "name": "Kolamba Kade",
     "googleMapsUrl": "https://www.google.com/maps/place/Kolamba+Kade/data=!4m2!3m1!1s0x3ae259634f4ba441:0x70843c626c68497f",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "friends-meetup",
       "brunch"
@@ -1514,13 +1526,13 @@
     "name": "SKY PORT By CORONATION",
     "googleMapsUrl": "https://www.google.com/maps/place/SKY+PORT+By+CORONATION/data=!4m2!3m1!1s0x3ae259dd34ae9ed7:0x4a1d8fb2828b0297",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "good-view",
       "bar-vibes",
       "date-spot"
     ],
-    "description": "Rooftop dining venue in Colombo offering elevated views of the city skyline, cocktails, and a stylish open-air lounge experience."
+    "description": "Rooftop dining venue in Colombo 03 offering elevated views of the city skyline, cocktails, and a stylish open-air lounge experience."
   },
   {
     "name": "Barefoot",
@@ -1537,38 +1549,50 @@
   {
     "name": "The Grand Gastrobar",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Grand+Gastrobar/data=!4m2!3m1!1s0x3ae2ef3726cf2021:0xacc283aad5d37106",
-    "district": "Gampaha",
-    "area": "Negombo",
+    "district": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "bar-vibes",
       "friends-meetup",
       "fine-dining"
     ],
-    "description": "Upscale gastro-bar in Negombo offering gourmet pub food, craft cocktails, and a refined yet relaxed social dining experience."
+    "description": "Upscale gastro-bar in Colombo 03 offering gourmet pub food, craft cocktails, and a refined yet relaxed social dining experience."
+  },
+  {
+    "name": "Blue Wild",
+    "googleMapsUrl": "https://www.google.com/maps/place/Blue+Wild/data=!4m2!3m1!1s0x3ae69d57a5700d37:0x53c7d2d7674abd14",
+    "district": "Galle",
+    "area": "Ahangama",
+    "tags": [
+      "beach-side",
+      "good-view",
+      "bar-vibes"
+    ],
+    "description": "Beachfront restaurant and bar in the Ahangama-Mirissa coastal stretch with ocean views, cocktails, and a laid-back surf-town vibe."
   },
   {
     "name": "Cafe Ivy",
     "googleMapsUrl": "https://www.google.com/maps/place/Cafe+Ivy/data=!4m2!3m1!1s0x3ae2595132813fdd:0x130e80ca66f26932",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "coffee",
       "brunch",
       "friends-meetup"
     ],
-    "description": "Charming ivy-adorned cafe in Colombo with a cozy ambiance, solid coffee, and a brunch-heavy menu popular with locals."
+    "description": "Charming ivy-adorned cafe in Colombo 03 with a cozy ambiance, solid coffee, and a brunch-heavy menu popular with locals."
   },
   {
     "name": "Chives - Cafe & Bistro",
     "googleMapsUrl": "https://www.google.com/maps/place/Chives+-+Cafe+%26+Bistro/data=!4m2!3m1!1s0x3ae2fd7aaea9e59b:0xe60a299cce09443f",
-    "district": "Gampaha",
-    "area": "Nittambuwa",
+    "district": "Colombo",
+    "area": "Colombo 05",
     "tags": [
       "brunch",
       "calm-place",
       "family-outing"
     ],
-    "description": "Garden cafe and bistro in the Nittambuwa area with a green, leafy setting and a wholesome menu of salads, sandwiches, and comfort food."
+    "description": "Garden cafe and bistro in the Colombo 05 area with a green, leafy setting and a wholesome menu of salads, sandwiches, and comfort food."
   },
   {
     "name": "Tea Avenue",
@@ -1620,26 +1644,26 @@
   {
     "name": "Oldfort Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Oldfort+Cafe/data=!4m2!3m1!1s0x3ae259de05d42085:0x42e114e320d99684",
-    "district": "Colombo",
-    "area": "Colombo 01",
+    "district": "Galle",
+    "area": "Galle Fort",
     "tags": [
       "coffee",
       "calm-place",
       "instagram-worthy"
     ],
-    "description": "Heritage-style cafe in Colombo 01 with a colonial atmosphere, good coffee, and a photogenic Fort-precinct setting."
+    "description": "Heritage cafe inside Galle Fort with colonial atmosphere, good coffee, and a photogenic setting within the UNESCO-listed fortification."
   },
   {
     "name": "Banjos Lake Restaurant",
     "googleMapsUrl": "https://www.google.com/maps/place/Banjos+Lake+Restaurant/data=!4m2!3m1!1s0x3ae25b47bae1fa8f:0xf5147cfe7dd181e4",
     "district": "Colombo",
-    "area": "Boralesgamuwa",
+    "area": "Kotte",
     "tags": [
       "good-view",
       "family-outing",
       "calm-place"
     ],
-    "description": "Lakeside restaurant near Boralesgamuwa with scenic water views, fresh seafood, and a peaceful open-air dining setting."
+    "description": "Lakeside restaurant near Kotte with scenic water views, fresh seafood, and a peaceful open-air dining setting."
   },
   {
     "name": "Chocoholics - Mount Lavinia",
@@ -1669,25 +1693,25 @@
     "name": "Ceylon Curry Club",
     "googleMapsUrl": "https://www.google.com/maps/place/Ceylon+Curry+Club/data=!4m2!3m1!1s0x3ae259d6ea119775:0x594faebc8043e6b7",
     "district": "Colombo",
-    "area": "Colombo 02",
+    "area": "Colombo 07",
     "tags": [
       "family-outing",
       "friends-meetup"
     ],
-    "description": "Sri Lankan restaurant in Colombo 02 celebrating authentic curry culture with generous rice-and-curry spreads and traditional dishes."
+    "description": "Sri Lankan restaurant in Colombo 07 celebrating authentic curry culture with generous rice-and-curry spreads and traditional dishes."
   },
   {
     "name": "Isle Amore",
     "googleMapsUrl": "https://www.google.com/maps/place/Isle+Amore/data=!4m2!3m1!1s0x3ae259b9a4bfb5f1:0x19c481e7624f01a3",
-    "district": "Colombo",
-    "area": "Colombo",
+    "district": "Galle",
+    "area": "Ahangama",
     "tags": [
       "beach-side",
       "date-spot",
       "good-view",
       "instagram-worthy"
     ],
-    "description": "Romantic Italian-inspired restaurant in Colombo with elegant interiors, candlelit tables, and an intimate fine-dining atmosphere."
+    "description": "Romantic beachside restaurant near Ahangama with stunning ocean views, candlelit tables, and an intimate island-love atmosphere."
   },
   {
     "name": "CACTUS Ahangama",
@@ -1706,36 +1730,48 @@
     "name": "Coffee Stop",
     "googleMapsUrl": "https://www.google.com/maps/place/Coffee+Stop/data=!4m2!3m1!1s0x3ae25940f27f8301:0x669c5659fc935a96",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "coffee",
       "calm-place"
     ],
-    "description": "Quick-service coffee stop in Colombo for a fast, quality caffeine fix with minimal fuss."
+    "description": "Quick-service coffee stop in Colombo 03 for a fast, quality caffeine fix with minimal fuss."
+  },
+  {
+    "name": "AQUA Pizza",
+    "googleMapsUrl": "https://www.google.com/maps/place/AQUA+Pizza/data=!4m2!3m1!1s0x3ae25107230be533:0x8bab7623bf1e263e",
+    "district": "Matara",
+    "area": "Weligama",
+    "tags": [
+      "pizza",
+      "beach-side",
+      "friends-meetup"
+    ],
+    "description": "Beachside pizza restaurant in Weligama serving fresh pizza with ocean views and a relaxed coastal dining atmosphere."
   },
   {
     "name": "Ti Amo Colombo",
     "googleMapsUrl": "https://www.google.com/maps/place/Ti+Amo+Colombo/data=!4m2!3m1!1s0x3ae259b0178acb11:0x47066594d1108e65",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "pizza",
       "date-spot",
       "fine-dining"
     ],
-    "description": "Romantic Italian restaurant in Colombo offering authentic pasta, pizza, and Italian wines in an intimate candlelit setting."
+    "description": "Romantic Italian restaurant in Colombo 03 offering authentic pasta, pizza, and Italian wines in an intimate candlelit setting."
   },
   {
     "name": "Rocco's",
     "googleMapsUrl": "https://www.google.com/maps/place/Rocco's/data=!4m2!3m1!1s0x3ae2598c8eeecc05:0xb7819f069949bbd7",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "pizza",
       "friends-meetup",
       "bar-vibes"
     ],
-    "description": "Casual Italian-American eatery in Colombo with loaded pizzas, burgers, and a fun, laid-back dining-and-drinks experience."
+    "description": "Casual Italian-American eatery in Colombo 07 with loaded pizzas, burgers, and a fun, laid-back dining-and-drinks experience."
   },
   {
     "name": "Burning Bird Rotisserie",
@@ -1752,22 +1788,22 @@
     "name": "Grillo’s",
     "googleMapsUrl": "https://www.google.com/maps/place/Grillo%E2%80%99s/data=!4m2!3m1!1s0x3ae259873bce0101:0x348c25b8f7f5e4f0",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "friends-meetup",
       "bar-vibes"
     ],
-    "description": "Lively grill and bar in Colombo known for sizzling grilled meats, cold beer, and a fun social dining experience."
+    "description": "Lively grill and bar in Colombo 07 known for sizzling grilled meats, cold beer, and a fun social dining experience."
   },
   {
     "name": "Doner & Durum",
     "googleMapsUrl": "https://www.google.com/maps/place/Doner+%26+Durum/data=!4m2!3m1!1s0x3ae25b51c4f83e67:0x62e3722623f75847",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 03",
     "tags": [
       "friends-meetup"
     ],
-    "description": "Turkish street-food spot in Colombo serving authentic doner kebabs, durums, and wraps for a quick, flavourful meal."
+    "description": "Turkish street-food spot in Colombo 03 serving authentic doner kebabs, durums, and wraps for a quick, flavourful meal."
   },
   {
     "name": "Kai Ahangama - Rooftop Cafe and Bar",
@@ -1786,19 +1822,19 @@
     "name": "The Cricket Club Café",
     "googleMapsUrl": "https://www.google.com/maps/place/The+Cricket+Club+Caf%C3%A9/data=!4m2!3m1!1s0x3ae25968dda0af9d:0xc9adb32c4f679540",
     "district": "Colombo",
-    "area": "Colombo 07",
+    "area": "Colombo 03",
     "tags": [
       "brunch",
       "friends-meetup",
       "calm-place"
     ],
-    "description": "Cricket-themed cafe in Colombo 07 set in a heritage building, popular for brunch, afternoon tea, and its colonial-era charm."
+    "description": "Cricket-themed cafe in Colombo 03 set in a heritage building, popular for brunch, afternoon tea, and its colonial-era charm."
   },
   {
     "name": "Lago Italian Bistro",
     "googleMapsUrl": "https://www.google.com/maps/place/Lago+Italian+Bistro/data=!4m2!3m1!1s0x3ae25983be48270b:0x2f737c493fdd24b1",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 02",
     "tags": [
       "pizza",
       "fine-dining",
@@ -1811,112 +1847,23 @@
     "name": "Gune’s grill wok & BBQ",
     "googleMapsUrl": "https://www.google.com/maps/place/Gune%E2%80%99s+grill+wok+%26+BBQ/data=!4m2!3m1!1s0x3ae2570062a0b519:0xb346f2ea9305e25a",
     "district": "Colombo",
-    "area": "Battaramulla",
+    "area": "Colombo 06",
     "tags": [
       "friends-meetup",
       "family-outing"
     ],
-    "description": "Grill and wok restaurant in Battaramulla offering BBQ meats, stir-fried dishes, and a lively casual dining experience."
+    "description": "Grill and wok restaurant in Colombo 06 offering BBQ meats, stir-fried dishes, and a lively casual dining experience."
   },
   {
     "name": "Seed Cafe",
     "googleMapsUrl": "https://www.google.com/maps/place/Seed+Cafe/data=!4m2!3m1!1s0x3ae2598ce588bacf:0x1a43a76bee55be02",
     "district": "Colombo",
-    "area": "Colombo",
+    "area": "Colombo 07",
     "tags": [
       "coffee",
       "brunch",
       "calm-place"
     ],
-    "description": "Plant-forward cafe in Colombo offering healthy, seed-inspired dishes alongside specialty coffee in a serene, natural-toned space."
-  },
-  {
-    "name": "AQUA Pizza - Galle",
-    "googleMapsUrl": "https://maps.app.goo.gl/PtXpdZyescvYEK8j9?g_st=iw",
-    "district": "Galle",
-    "area": "Galle Fort",
-    "tags": [
-      "friends-meetup",
-      "date-spot"
-    ],
-    "description": "Galle Fort branch of AQUA Pizza serving fresh wood-fired pizzas in a relaxed setting within the historic fort precinct."
-  },
-  {
-    "name": "AQUA Pizza - Cmb",
-    "googleMapsUrl": "https://maps.app.goo.gl/tUFsjoN8cf5SKfyK8?g_st=iw",
-    "district": "Colombo",
-    "area": "Park Street Mews",
-    "tags": [
-      "friends-meetup",
-      "date-spot"
-    ],
-    "description": "Colombo outpost of AQUA Pizza at Park Street Mews, serving fresh pizza in a stylish urban courtyard atmosphere."
-  },
-  {
-    "name": "AQUA Pizza - Tangalle",
-    "googleMapsUrl": "https://maps.app.goo.gl/7WS5gXYoxjL9kem87?g_st=iw",
-    "district": "Hambantota",
-    "area": "Tangalle",
-    "tags": [
-      "friends-meetup",
-      "good-view"
-    ],
-    "description": "Tangalle branch of AQUA Pizza on the southern coast, serving fresh pizza in a laid-back beach-town setting."
-  },
-  {
-    "name": "Vito Wood Fired Pizza - Negombo",
-    "googleMapsUrl": "https://maps.app.goo.gl/BsdTEaA6tnR3NLKo8",
-    "district": "Gampaha",
-    "area": "Negombo",
-    "tags": [
-      "friends-meetup",
-      "family-outing"
-    ],
-    "description": "Negombo branch of Vito Wood Fired Pizza delivering crispy Neapolitan-style pies in a casual coastal-town setting."
-  },
-  {
-    "name": "Vito Wood Fired Pizza - Pera",
-    "googleMapsUrl": "https://maps.app.goo.gl/LymgQRiS8WsyhGtG7",
-    "district": "Kandy",
-    "area": "Peradeniya",
-    "tags": [
-      "friends-meetup",
-      "family-outing"
-    ],
-    "description": "Peradeniya branch of Vito Wood Fired Pizza serving crispy Neapolitan-style pies in a relaxed setting near the university town."
-  },
-  {
-    "name": "Vito Wood Fired Pizza - Kandy",
-    "googleMapsUrl": "https://maps.app.goo.gl/3TUNbccPjPi1axrM6",
-    "district": "Kandy",
-    "area": "Kandy",
-    "tags": [
-      "friends-meetup",
-      "family-outing"
-    ],
-    "description": "Kandy branch of Vito Wood Fired Pizza delivering crispy Neapolitan-style pies in a casual hill-country setting."
-  },
-  {
-    "name": "Kai Ahangama Rooftop Cafe and Bar",
-    "googleMapsUrl": "https://maps.app.goo.gl/qhGPsE3pTPmTas8z9",
-    "district": "Galle",
-    "area": "Ahangama",
-    "tags": [
-      "good-view",
-      "date-spot",
-      "friends-meetup"
-    ],
-    "description": "Rooftop cafe and bar in Ahangama overlooking the ocean, offering great coffee by day and sunset cocktails by night."
-  },
-  {
-    "name": "Crust and Crumble",
-    "googleMapsUrl": "https://maps.app.goo.gl/SusaZu4buE2W2mGU9",
-    "district": "Matara",
-    "area": "Dickwella",
-    "tags": [
-      "friends-meetup",
-      "dessert"
-    ],
-    "description": "Cozy bakery-cafe in Dickwella serving fresh artisan breads, pastries, and good coffee in a laid-back southern-coast setting."
+    "description": "Plant-forward cafe in Colombo 07 offering healthy, seed-inspired dishes alongside specialty coffee in a serene, natural-toned space."
   }
 ]
